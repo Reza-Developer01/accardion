@@ -55,8 +55,6 @@ body {
 }
 
 .accardion__item {
-    display: flex;
-    justify-content: space-between;
     padding: 1.4rem;
     gap: 1.4rem;
     border: 1px solid var(--primary-color);
@@ -69,6 +67,9 @@ body {
 .accardion__item-title {
     font-family: "IranYekanX-Medium";
     cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .accardion__item-text {
