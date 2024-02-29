@@ -22,7 +22,11 @@
     }
 }
 
-@media screen and (min-width: 992px) {}
+@media screen and (min-width: 992px) {
+    .accardion__item {
+        width: 45rem;
+    }
+}
 
 @media screen and (min-width: 1200px) {}
 
