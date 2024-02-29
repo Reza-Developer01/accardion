@@ -4,7 +4,6 @@
     --black-color: #272D27;
 }
 
-
 /* ==== Configuration ==== */
 html {
     box-sizing: border-box;
@@ -25,3 +24,12 @@ body {
     direction: rtl;
     text-align: right;
 }
+
+#svg {
+    display: none;
+}
+
+
+/* ==== Start ==== */
+
+/* ==== Finish ==== */
