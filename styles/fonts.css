@@ -5,10 +5,10 @@
 
 @font-face {
     font-family: "IranYekanX-Medium";
-    src: url("../fonts/IRANYekanX-Regular.ttf") format("truetype");
+    src: url("../fonts/IRANYekanX-Medium.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "IranYekanX-Bold";
-    src: url("../fonts/IRANYekanX-Regular.ttf") format("truetype");
+    src: url("../fonts/IRANYekanX-Bold.ttf") format("truetype");
 }

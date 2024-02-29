@@ -1,6 +1,26 @@
 @media screen and (min-width: 576px) {}
 
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+    .accardion__title {
+        font-size: 2.5rem;
+    }
+
+    .accardion__item {
+        padding: 2.4rem;
+    }
+
+    .accardion__item-title {
+        font-size: 2rem;
+    }
+
+    .accardion__item-text {
+        font-size: 1.6rem;
+    }
+
+    .accardion__item-text {
+        margin-top: 2rem;
+    }
+}
 
 @media screen and (min-width: 992px) {}
 
