@@ -2,7 +2,7 @@
 
 **😃 Build vertically collapsing accordions in combination with our Collapse JavaScript.**
 
-- ✨ [Demo Project](https://reza-developer01.github.io/Random-Password/)
+- ✨ [Demo Project](https://reza-developer01.github.io/accardion/)
 
 - 👨‍💻 Developed by Reza Rashvand
 
