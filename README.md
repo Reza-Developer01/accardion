@@ -1,6 +1,6 @@
 # Accardion
 
-**😃 Don't think so much about the password. With one click, you can have a strong and unique password**
+**😃 Build vertically collapsing accordions in combination with our Collapse JavaScript.**
 
 - ✨ [Demo Project](https://reza-developer01.github.io/Random-Password/)
 
